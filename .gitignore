@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.env
+.env.local
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+.pytest_cache/
+
+# Build
+dist/
+build/
+.next/
+out/
